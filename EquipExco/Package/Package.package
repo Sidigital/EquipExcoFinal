@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="62a3d9af-1f6c-4a58-8ee7-a9b229ba868c" solutionId="62a3d9af-1f6c-4a58-8ee7-a9b229ba868c" resetWebServer="false" sharePointProductVersion="16.0" name="EquipExco" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="9c21001d-9191-42c0-9bf8-c806dee85672" />
+    <featureReference itemId="9a547262-347e-4231-a78c-1d7958f103e6" />
+  </features>
+</package>

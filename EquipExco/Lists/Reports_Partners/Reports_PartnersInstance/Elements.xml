@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="Reports_Partners" OnQuickLaunch="FALSE" TemplateType="100" Url="Lists/Reports_Partners" Description="Partners list">
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name="Title">Partners in Hope</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">MaTCH</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Anova</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Kheth’ Impilo </Field>
+        </Row>
+      </Rows>
+    </Data>
+  </ListInstance>
+</Elements>

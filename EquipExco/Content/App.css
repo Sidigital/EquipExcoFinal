@@ -1,0 +1,51 @@
+﻿/* Place custom styles below */
+.repHeader {
+    display: block;
+    height: 90px;
+    text-align: center;
+    width: 100%;
+    background: #e95420;
+    vertical-align: middle;
+    margin-top: auto;
+    line-height: 90px;
+    font-size: 30px; 
+    color:#ffffff;
+}
+
+
+.repsubHeader {
+    display: block;
+    height: 45px;
+    text-align: center;
+    width: 100%;
+  
+    vertical-align: middle;
+    margin-top: auto;
+    line-height: 45px;
+    font-size: 20px;
+
+}
+
+.activityHeader {
+    color: #e95420;
+    font-size:14px;
+    font-weight:bold;
+    text-decoration:underline;
+
+}
+
+.activity {
+    color: #e95420;
+    font-size: 14px;
+    font-style:italic;
+    padding-left:20px;
+
+}
+
+.details {
+
+
+
+    padding-left: 20px;
+}
+

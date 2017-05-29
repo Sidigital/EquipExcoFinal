@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\gijgo.min.js" Url="Scripts/gijgo.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Add.js" Url="Scripts/Add.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\view.js" Url="Scripts/view.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\reports.js" Url="Scripts/reports.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery.wordexport.js" Url="Scripts/jquery.wordexport.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\FileSaver.js" Url="Scripts/FileSaver.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
